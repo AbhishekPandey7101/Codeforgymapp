@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/onlinegymapp/static/css/main.20acbc28.css",
+    "main.js": "/onlinegymapp/static/js/main.01ba7ef7.js",
+    "static/media/hrb.jpeg": "/onlinegymapp/static/media/hrb.7e05fb9a0ca3ea9c421e.jpeg",
+    "static/media/gym.png": "/onlinegymapp/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/onlinegymapp/index.html",
+    "main.20acbc28.css.map": "/onlinegymapp/static/css/main.20acbc28.css.map",
+    "main.01ba7ef7.js.map": "/onlinegymapp/static/js/main.01ba7ef7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.01ba7ef7.js"
+  ]
+}
